@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities{
+    #ingredients-list li::marker, #instructions-list li::marker{@apply text-customRose800 font-bold}
+    table{width: calc(100vw - 64px)}
+}
