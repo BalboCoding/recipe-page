@@ -20,8 +20,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [FrontendMentor Page Solution](https://your-solution-url.com)
-- Live Site URL: [Live demo GitHub Pages](https://your-live-site-url.com)
+- Solution URL: [FrontendMentor Page Solution](https://www.frontendmentor.io/solutions/recipe-page-using-tailwindcss-bgAtTSaDmH)
+- Live Site URL: [Live demo GitHub Pages](https://balbocoding.github.io/recipe-page/)
 
 ## My process
 
