@@ -34,7 +34,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 - Mobile-first workflow
 - [TailwindCss](https://tailwindcss.com/) - for style
 
-
 ## Author
 
 - GitHub - [BalboCoding](https://github.com/BalboCoding)
